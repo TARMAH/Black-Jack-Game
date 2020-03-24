@@ -38,7 +38,7 @@ th , td{
   border: 1px solid black;
 }
 
-#your-box img
+#your-box img , #dealer-box img
 {
   height : 30%;
   width: 20%;
