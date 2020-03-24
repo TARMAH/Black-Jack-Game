@@ -37,3 +37,14 @@ th , td{
   padding:5px;
   border: 1px solid black;
 }
+
+#your-box img
+{
+  height : 30%;
+  width: 20%;
+  margin: 8% 1%;
+}
+#your-box
+{
+  overflow: hidden;
+}
